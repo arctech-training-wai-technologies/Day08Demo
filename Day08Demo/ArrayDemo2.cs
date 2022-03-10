@@ -11,6 +11,5 @@ internal class ArrayDemo2
         int sumNum = nums.Sum();
 
         Console.Write($"min={minNum}, max={maxNum},sum={sumNum}");
-
     }
 }

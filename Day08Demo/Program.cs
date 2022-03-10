@@ -6,11 +6,17 @@ using Day08Demo;
 Console.WriteLine("Hello, World!");
 //ArrayDemo1.TestArray1();
 //ArrayDemo1.TestArray2();
-Day08Demo.ArrayDemo1.TestArray3();
+//Day08Demo.ArrayDemo1.TestArray3();
 // Fully qualified name
 
-ArrayDemo2.Test();
+//ArrayDemo2.Test();
 
-Console.WriteLine("aaaa");
+//PassByReferenceDemo.TestPassByValue();
+//PassByReferenceDemo.TestPassByReference();
 
+//StructDemo.Test();
+//EnumDemo.Test();
 
+//OperatorOverloadingDemo.Test();
+
+StaticDemo.Test();
